@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c8d3ef1nbnfpj"]
+
+[ext_resource type="Script" path="res://Wallet.gd" id="1_00gcd"]
+
+[node name="Wallet" type="Node2D"]
+script = ExtResource("1_00gcd")
